@@ -1,6 +1,8 @@
 auth_cms
 ========
+内容管理系统
+
 技术实现：
-spring MVC
-spring
-hibernate
+SpringMVC
+Spring
+Hibernate
